@@ -28,7 +28,6 @@
 
 ---
 
-<!-- Table -->
 # Service
 
 | 기업 회원가입 | 개인 회원가입 |
@@ -45,7 +44,6 @@
 
 ---
 
-<!-- Tech stack -->
 # Tech Stack
 
 ### FrameWork
@@ -61,8 +59,8 @@
 
 ### DevOps  
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black)
-<img src="https://img.shields.io/badge/Github_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white" /> 
+![GitHub Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ### Tools
 ![Notion](https://img.shields.io/badge/-Notion-black?logo=notion&logoColor=white)
@@ -70,3 +68,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-purple?logo=slack&logoColor=white)
 ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=flat&logo=kakaotalk&logoColor=white)
+
