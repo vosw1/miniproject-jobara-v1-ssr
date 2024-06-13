@@ -1,7 +1,7 @@
 # I am
 | 이름 | 사진 | 역할 |  
 |:--:|:--:|:---------------:|
-| 송민경 | <img src="https://github.com/vosw1/miniproject-jobara-v1-ssr/assets/153582401/f66642ce-78be-4bf5-9b60-1eba5d74e66d" width="150px"/> | 테이블 설계<br/>화면 디자인 및 구현<br>(마이페이지에 속한 화면)<br/>이미지(공고, 이력서)<br/>커뮤니티 댓글<br/>단위 테스트<br/>유효성 검사|
+| 송민경 | <img src="https://avatars.githubusercontent.com/u/153582401?v=4" width="150px"> | 테이블 설계<br/>화면 디자인 및 구현<br>(마이페이지에 속한 화면)<br/>이미지(공고, 이력서)<br/>커뮤니티 댓글<br/>단위 테스트<br/>유효성 검사|
 
 ---
 
@@ -23,7 +23,7 @@
 ## Teammates
 | Team-Leader | Team-Member | Team-Member | Team-Member | Team-Member |
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| <img src="https://github.com/vosw1/miniproject-jobala-v2-ssr/assets/153582401/d20420bf-008c-4fd0-a7e0-8983d7606c7c" alt="profile" width="100" height="100"> | <img src="https://github.com/vosw1/miniproject-jobala-v2-ssr/assets/153582401/c4180860-481a-46f0-a0e2-df05bdf8a586" alt="profile" width="100" height="100"> | <img src="https://github.com/vosw1/miniproject-jobala-v2-ssr/assets/153582401/9d7395db-e810-466e-bd9d-9216d18d0395" alt="profile" width="100" height="100"> | <img src="https://github.com/vosw1/miniproject-jobara-v1-ssr/assets/153582401/f66642ce-78be-4bf5-9b60-1eba5d74e66d" alt="profile" width="100" height="100"> | <img src="https://github.com/vosw1/miniproject-jobala-v2-ssr/assets/153582401/84715293-8f3a-4939-8122-c85438791364" alt="profile" width="100" height="100"> |
+| <img src="https://github.com/vosw1/miniproject-jobala-v2-ssr/assets/153582401/d20420bf-008c-4fd0-a7e0-8983d7606c7c" alt="profile" width="100" height="100"> | <img src="https://github.com/vosw1/miniproject-jobala-v2-ssr/assets/153582401/c4180860-481a-46f0-a0e2-df05bdf8a586" alt="profile" width="100" height="100"> | <img src="https://github.com/vosw1/miniproject-jobala-v2-ssr/assets/153582401/9d7395db-e810-466e-bd9d-9216d18d0395" alt="profile" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/153582401?v=4" alt="profile" width="100" height="100"> | <img src="https://github.com/vosw1/miniproject-jobala-v2-ssr/assets/153582401/84715293-8f3a-4939-8122-c85438791364" alt="profile" width="100" height="100"> |
 | 김주혁 | 박선규 | 박찬혁 | 송민경 | 장유진 |
 
 ---
