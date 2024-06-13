@@ -9,8 +9,8 @@
 
 <img src="https://github.com/kjh5848/miniproject-JOBALR/assets/161176345/8bc39efd-533f-4696-ae5c-99b07c0e1462"><br>
 
-백엔드 서버의 기초인 CRUD 와 Session을 기반으로 Spring Boot를 이용한 이력서 공유 플랫폼
-<br>사용자들이 자유롭게 자신의 이력서를 업로드하고 공유할 수 있는 공간입니다. 
+백엔드 서버의 기초인 CRUD와 Session을 기반으로 Spring Boot를 이용하여 이력서 공유 플랫폼을 개발했습니다. 
+<br>이 플랫폼은 사용자들이 자유롭게 자신의 이력서를 업로드하고 공유할 수 있는 공간입니다.
 
 기간 : 2024.02.21 ~ 2023.03.10 ( __총 29일__ )
 
