@@ -31,28 +31,12 @@
 
 # Tech Stack
 
-### FrameWork
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![J Query](https://img.shields.io/badge/Jquery-23ED8B00.svg?style=flat&logo=jquery&logoColor=white)
-![Ajax](https://img.shields.io/badge/Ajax-red.svg?style=flat&logo=ajax&logoColor=white)
-![Session](https://img.shields.io/badge/Session-ffcd00.svg?style=flat&logo=session&logoColor=white)
+| FrameWork | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![J Query](https://img.shields.io/badge/Jquery-23ED8B00.svg?style=flat&logo=jquery&logoColor=white) ![Ajax](https://img.shields.io/badge/Ajax-red.svg?style=flat&logo=ajax&logoColor=white) ![Session](https://img.shields.io/badge/Session-ffcd00.svg?style=flat&logo=session&logoColor=white) |
+| :-------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|    DB     | ![H2](https://img.shields.io/badge/-H2-orange?logo=amazondocumentdb&logoColor=white)                                                                                                                                                                                                                                               |
+|  DevOps   | ![AWS](https://img.shields.io/badge/Amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white)                                                                                                                                                                                                                                  |
+|  Tools    | ![Notion](https://img.shields.io/badge/-Notion-black?logo=notion&logoColor=white) ![Git](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-purple?logo=slack&logoColor=white)   
 
-### DB
-![H2](https://img.shields.io/badge/-H2-orange?logo=amazondocumentdb&logoColor=white)
-
-### DevOps  
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-### Tools
-![Notion](https://img.shields.io/badge/-Notion-black?logo=notion&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
-![Slack](https://img.shields.io/badge/-Slack-purple?logo=slack&logoColor=white)
-![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=flat&logo=kakaotalk&logoColor=white)
 
 ---
 
