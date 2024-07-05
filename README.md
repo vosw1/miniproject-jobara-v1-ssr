@@ -39,6 +39,8 @@
 
 
 ---
+# Table
+[Data Table 자세히 보기👆](https://www.erdcloud.com/d/rgigtLPKJ5sxrPbzz)
 
 # Service
 
