@@ -1,6 +1,6 @@
 # Project
 
-<img src="https://github.com/kjh5848/miniproject-JOBALR/assets/161176345/8bc39efd-533f-4696-ae5c-99b07c0e1462" height=90> 기간 : 2024.02.21 ~ 2023.03.10 ( __총 29일__ )
+<img src="https://github.com/kjh5848/miniproject-JOBALR/assets/161176345/8bc39efd-533f-4696-ae5c-99b07c0e1462" height=90> 기간 : 2024.02.21 ~ 2024.03.10 ( __총 29일__ )
 
 - Java로 SpringBoot를 이용한 Session 기반의 Web Site
 - MVC 패턴을 이용하여 HTML의 GET, POST 메서드를 이용한 CRUD -> 리팩토링 후 HTML의 PUT, DELETE 메서드 추가
